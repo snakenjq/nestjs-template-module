@@ -1,1 +1,1 @@
-export * from "./__name__.controller";
+export * from './__name__.controller';

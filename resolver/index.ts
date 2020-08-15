@@ -1,1 +1,1 @@
-export * from "./__name__.resolver";
+export * from './__name__.resolver';

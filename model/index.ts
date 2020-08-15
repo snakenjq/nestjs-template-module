@@ -1,1 +1,1 @@
-export * from "./__name__.model";
+export * from './__name__.model';

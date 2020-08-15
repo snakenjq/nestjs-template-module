@@ -1,12 +1,12 @@
-import { Module } from "@nestjs/common";
-import { TypeOrmModule } from "@nestjs/typeorm";
+import { Module } from '@nestjs/common';
+import { TypeOrmModule } from '@nestjs/typeorm';
 
 import {
   __Name__Controller,
   __Name__Resolver,
   __Name__Service,
   __Name__,
-} from ".";
+} from '.';
 
 @Module({
   imports: [TypeOrmModule.forFeature([__Name__])],

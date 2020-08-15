@@ -1,1 +1,1 @@
-export * from "./__name__.service";
+export * from './__name__.service';

@@ -1,6 +1,6 @@
-import { Resolver } from "@nestjs/graphql";
+import { Resolver } from '@nestjs/graphql';
 
-import { __Name__Service } from "../service";
+import { __Name__Service } from '../service';
 
 @Resolver()
 export class __Name__Resolver {
